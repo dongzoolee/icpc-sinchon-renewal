@@ -72,7 +72,7 @@ const TextTitle = styled.div`
 
 const TextSubTitle = styled.div`
     font-family: 'Noto Sans KR';
-    font-size: 1.02rem;
+    font-size: .9rem;
     font-weight: 500;
 `
 
